@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "UnStumble.aternos.me",
+    "ip": "unstumble.aternos.me",
     "port": 54319,
     "version": "",
     "try-creative": false
